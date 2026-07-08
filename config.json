@@ -1,0 +1,7 @@
+{
+  "token_file": "tokens.txt",
+  "channel_id": "",
+  "mute": true,
+  "deaf": true,
+  "stream": true
+}
