@@ -3,7 +3,5 @@ colorama
 discord.py==1.7.3
 PyNaCl
 websockets
-re
 pycryptodome
-pypiwin32
 aiohttp
